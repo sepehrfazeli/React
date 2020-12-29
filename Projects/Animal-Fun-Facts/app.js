@@ -10,7 +10,8 @@ const displayFact = (e) =>{
 const showBackground = true;
 
 const title = '';
-const background = (<img 
+
+    const background = (<img 
   className = 'background' 
   alt='ocean' 
   src='./images/ocean.jpg'

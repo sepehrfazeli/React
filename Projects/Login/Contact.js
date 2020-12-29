@@ -24,7 +24,7 @@ class Contact extends React.Component {
     const login = (<form action="#" onSubmit={this.authorize}>
                       <input type="password" placeholder="Password"/>
                       <input type="submit"/>
-                   </form>)
+                  </form>)
     const contactInfo = (
                         <ul>
                           <li>
